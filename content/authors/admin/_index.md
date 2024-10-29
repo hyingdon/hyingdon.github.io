@@ -50,7 +50,7 @@ research interests:
 education:
   - area: Ph.D. Candidate, Computer Engineering
     institution: University of Virginia
-    date_start: 2019-06
+    date_start: Jun 2019
     date_end: Present
     #summary: |
     #  Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
@@ -59,8 +59,8 @@ education:
     #  url: 'https://example.com'
   - area: M.S., Computer Science
     institution: Georgia Institute of Technology
-    date_start: 2017-08
-    date_end: 2019-12
+    date_start: Aug 2017
+    date_end: Dec 2019
     #summary: |
     #  GPA: 3.8/4.0
 
@@ -70,20 +70,20 @@ education:
     #  - lorem ipsum dolor sit amet, consectetur adipiscing elit
   - area: M.A., Chemistry
     institution: University of Virginia
-    date_start: 2014-08
-    date_end: 2019-05
+    date_start: Aug 2014
+    date_end: May 2019
 
   - area: B.S., Chemistry
     institution: University of Science and Technology of China
-    date_start: 2010-09
-    date_end: 2014-06
+    date_start: Sep 2010
+    date_end: Jun 2014
     
 work:
   - position: Ph.D. Candidate
     company_name: University of Virginia
     #company_url: ''
     #company_logo: ''
-    date_start: 2019-06
+    date_start: Jun 2019
     date_end: Present
     #summary: |2-
     #  Responsibilities include:
